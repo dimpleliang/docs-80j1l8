@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-j0a0r0.vuelobaratolatam.top/sitemap.xml
